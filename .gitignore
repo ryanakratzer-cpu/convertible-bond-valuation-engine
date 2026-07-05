@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Large self-contained interactive exports (regenerate with run_pipeline_demo.py)
+outputs/interactive_*.html
+
+# Secrets / environment
+.env
